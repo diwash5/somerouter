@@ -28,7 +28,7 @@ location.reload();
 
  if pasting is not enabled type the following and press enter :
 
- ``` 'enable pastig' ```
+ ``` 'allow pasting' ```
 
  now there will me more options than your regular account . now go to management and Backup and restore
  export your config and you can get passwords to various accounts there

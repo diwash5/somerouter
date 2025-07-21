@@ -19,7 +19,8 @@ Go to the Console tab
 
 Paste this code and press Enter:
 
-```  localStorage.setItem("role", "2"); 
+```
+localStorage.setItem("role", "2"); 
 sessionStorage.setItem("role", "2");
 location.reload();
 

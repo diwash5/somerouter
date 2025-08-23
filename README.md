@@ -1,5 +1,5 @@
 # somerouter
-Exploit of a router ( Classified ) 
+Exploit of a router 
 
 This repository is about exploiting a router to escalate to superuser access . Both web and Telnet shell access.
 I am not disclosing the router as the router is actively being patched thorough software updates so, this repository is only a note to myself .
